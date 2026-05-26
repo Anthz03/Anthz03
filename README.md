@@ -47,10 +47,10 @@ I enjoy working on full-stack applications, designing intuitive interfaces, and 
 
 ## Skills
 
-- 🔹 Full-Stack Development  
-- 🔹 System Analysis  
-- 🔹 UI/UX Design  
-- 🔹 Database Design  
+🔹 Full-Stack Development  
+🔹 System Analysis  
+🔹 UI/UX Design  
+🔹 Database Design  
 
 ---
 
