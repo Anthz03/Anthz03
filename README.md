@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Kyle Magalona!
+# Kyle Magalona here!
 
-### 2nd Year BS - Information Systems Student | Full-Stack Developer | System Analyst
+### 3nd Year BS - Information Systems Student | Aspiring Full-Stack Developer | System Analyst
 
 Passionate about building systems that solve real-world problems through development, system analysis, and thoughtful user experiences.
 
