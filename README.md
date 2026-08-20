@@ -10,11 +10,11 @@ I enjoy working on full-stack applications, designing intuitive interfaces, and 
 
 ## About Me
 
-- 🎓 Information Systems Student
-- 💻 Interested in Full-Stack Development & System Design
-- 🎨 Passionate about UI/UX and user-centered interfaces
-- 🧠 Continuously learning new technologies and best practices
-- 📌 Focused on creating functional, scalable, and meaningful systems
+- Information Systems Student
+- Interested in Full-Stack Development & System Design
+- Passionate about UI/UX and user-centered interfaces
+- Continuously learning new technologies and best practices
+- Focused on creating functional, scalable, and meaningful systems
 
 ---
 
